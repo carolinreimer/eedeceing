@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://veimeuphe.asolitarymann.com/sitemap.xml
